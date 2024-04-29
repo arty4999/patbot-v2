@@ -26,3 +26,6 @@ Pull requests are welcome. although, there isn't much to contribute to this proj
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Original Version
+[patbot by Amy](https://github.com/queer/patbot)
