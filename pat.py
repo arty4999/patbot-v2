@@ -29,6 +29,8 @@ client = discord.Client(intents=intents)
 @client.event
 async def on_ready():
     print("Logged on as", client.user)
+    activity = discord.Game(name="Headpatting the world")
+    await client.change_presence(activity=activity)
 
 
 @client.event
